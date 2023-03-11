@@ -1,4 +1,4 @@
-Version 10.0 Changelog:
+Version 11.0 Changelog:
 
 >[Base Update] 261.0.0.21.111
 >[Add] All the new Instagram features
